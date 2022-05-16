@@ -1,0 +1,2 @@
+# exercice
+creation de fonction
